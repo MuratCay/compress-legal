@@ -183,4 +183,4 @@ Bu politikayı güncelleyebiliriz. En güncel sürümü yukarıdaki "Son güncel
 
 ## 10. İletişim
 
-[E-POSTA ADRESİ]
+dev.murat.cay@gmail.com
