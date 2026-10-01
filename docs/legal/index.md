@@ -7,4 +7,4 @@ title: Compress
 - [Privacy Policy / Gizlilik Politikası](privacy)
 - [Terms of Use / Kullanım Koşulları](terms)
 
-Contact / İletişim: [E-POSTA ADRESİ]
+Contact / İletişim: dev.murat.cay@gmail.com
