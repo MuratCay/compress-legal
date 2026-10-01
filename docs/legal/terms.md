@@ -82,7 +82,7 @@ mandatory consumer protection rules of your country of residence.
 
 ## 10. Contact
 
-[E-POSTA ADRESİ]
+dev.murat.cay@gmail.com
 
 ---
 
@@ -166,4 +166,4 @@ Türkiye Cumhuriyeti hukuku uygulanır.
 
 ## 10. İletişim
 
-[E-POSTA ADRESİ]
+dev.murat.cay@gmail.com
