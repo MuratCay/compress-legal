@@ -89,7 +89,7 @@ changes will be announced in the app or on this page.
 
 ## 10. Contact
 
-[E-POSTA ADRESİ]
+dev.murat.cay@gmail.com
 
 ---
 
