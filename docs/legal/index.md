@@ -2,7 +2,7 @@
 title: Compress
 ---
 
-# Compress: Photo & Video
+# Compress: Shrink Photo & Video
 
 - [Privacy Policy / Gizlilik Politikası](privacy)
 - [Terms of Use / Kullanım Koşulları](terms)
