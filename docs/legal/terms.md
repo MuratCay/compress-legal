@@ -4,7 +4,7 @@ title: Terms of Use — Compress
 
 # Terms of Use
 
-**App:** Compress: Photo & Video ("Compress", "the app")
+**App:** Compress: Shrink Photo & Video ("Compress", "the app")
 **Developer:** Murat Çay ("we", "us")
 **Last updated:** October 1, 2026
 
@@ -88,7 +88,7 @@ dev.murat.cay@gmail.com
 
 # Kullanım Koşulları
 
-**Uygulama:** Compress: Photo & Video ("Compress", "uygulama")
+**Uygulama:** Compress: Shrink Photo & Video ("Compress", "uygulama")
 **Geliştirici:** Murat Çay ("biz")
 **Son güncelleme:** 1 Ekim 2026
 
